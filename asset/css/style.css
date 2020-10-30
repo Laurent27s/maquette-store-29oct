@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#ImgHeader{
+    background-image: url("../img/jeans.jpg");
+    background-position: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    width: 70%;
+    height: 380px;
+    color: blanchedalmond;
+    margin-left: 50px;
+}
+h1{
+    bottom: 2rem   
+}
+h3{
+    color: blanchedalmond;
+}
+
+.header{
+    display: flex;
+    justify-content: left;
+}
+.menu{
+    display: flex;
+}
+
+li{
+    display: block;
+
+}
